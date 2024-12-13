@@ -29,13 +29,13 @@
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ## My GitHub Stats
-
+<div align="center">
 ![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=harold18m&show_icons=true&theme=radical)
-
+</div>
 ## Top Languages
-
+<div align="center">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harold18m&layout=compact&theme=radical)
-
+</div>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
