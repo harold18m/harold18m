@@ -20,8 +20,8 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I'm Harold from [Your Country].<br><br>- 🔭 I’m working as [Your Job Title] at [Your Company]<br>- 📚 I'm currently learning [Technology/Language]<br>- ⚡ In my free time, I enjoy [Your Hobbies/Interests]</p>
-
+<p align="left">I'm Harold from Peruvian.<br><br>- 🔭 I’m working as Frontend Developer at Cimark<br>- 📚 I'm currently learning Angular, NestJs, Golang, GCP, AWS<br>- ⚡ In my free time, I like playing soccer with my friends, watching documentaries, working out at the gym, and sleeping. </p>
+ 
 ## My GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harold18m&show_icons=true&theme=radical" alt="Harold's GitHub stats" />
