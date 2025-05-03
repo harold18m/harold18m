@@ -20,7 +20,7 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I'm Harold from Peruvian.<br><br>- 🔭 I’m working as Frontend Developer at Cimark<br>- 📚 I'm currently learning Angular, NestJs, Golang, GCP, AWS<br>- ⚡ In my free time, I like playing soccer with my friends, watching documentaries, working out at the gym, and sleeping. </p>
+<p align="left">I'm Harold from Peruvian.<br><br>- 🔭 I’m working as Software Developer at MyWorkIn<br>- 📚 I'm currently learning Angular, NestJs, Golang, GCP, AWS<br>- ⚡ In my free time, I like playing soccer with my friends, watching documentaries, working out at the gym, and sleeping. </p>
  
 ## My GitHub Stats
 <div align="center">
