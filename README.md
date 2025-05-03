@@ -28,7 +28,7 @@
     <li>🌐 Creating dynamic UIs with <strong>React</strong> &amp; <strong>Next.js</strong>.</li>
     <li>📦 Deploying serverless workloads on Vercel, DigitalOcean &amp; AWS.</li>
     <li>⚙️ Passionate about automation, CI/CD and clean code.</li>
-    <li>📫 Reach me at <a href="mailto:harold@domain.com">harold@domain.com</a>.</li>
+    <li>📫 Reach me at <a href="mailto:harold@domain.com">harold.medrano@tecsup.edu.pe</a>.</li>
   </ul>
 </section>
 
@@ -60,7 +60,7 @@
       <li>
         <strong>Portfolio Site</strong> — Built with Next.js, Vercel &amp; Tailwind CSS. Showcases my work, blog posts, and talks.
         <br />
-        <a href="https://haroldmedrano.dev" target="_blank">View Live</a>
+        <a href="https://harold18m.tech" target="_blank">View Live</a>
       </li>
       <li>
         <strong>FastAPI Boilerplate</strong> — A starter kit for building robust APIs with authentication, CI/CD &amp; docs.
