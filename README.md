@@ -18,7 +18,9 @@ I care about **shipping**, **clarity**, and **business impact**.
 
 ## 🚀 Featured Projects (Start Here)
 
-### 🥇 Calendable
+### 🥇 Calendable  
+🔗 https://github.com/harold18m/calendable  
+
 **AI-powered calendar assistant** that lets users interact with their schedule using natural language.
 - Conversational UX over calendar data
 - Event orchestration and state handling
@@ -29,6 +31,7 @@ I care about **shipping**, **clarity**, and **business impact**.
 ---
 
 ### 🥈 Ghostwriter AI
+🔗 https://github.com/harold18m/ghostwriter
 **AI tool for structured content generation**, focused on quality, control, and reuse.
 - Prompt-driven workflows
 - Content consistency and customization
@@ -39,6 +42,7 @@ I care about **shipping**, **clarity**, and **business impact**.
 ---
 
 ### 🥉 Menu AI
+🔗 https://github.com/harold18m/menu-ai  
 **Computer-vision + AI pipeline** that transforms a restaurant menu photo into interactive dish previews.
 - Image → structured data → visual output
 - AI-assisted UX for non-technical users
@@ -49,6 +53,7 @@ I care about **shipping**, **clarity**, and **business impact**.
 ---
 
 ### Gymnasio / FitGym
+🔗 https://github.com/harold18m/administracion_gimnasio  
 **Gym management system** covering members, subscriptions, and operational workflows.
 - Real CRUD and business logic
 - Focused on internal operations, not marketing
