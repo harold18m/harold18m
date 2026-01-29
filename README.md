@@ -32,6 +32,7 @@ I care about **shipping**, **clarity**, and **business impact**.
 
 ### 🥈 Ghostwriter AI
 🔗 https://github.com/harold18m/ghostwriter
+
 **AI tool for structured content generation**, focused on quality, control, and reuse.
 - Prompt-driven workflows
 - Content consistency and customization
