@@ -26,7 +26,7 @@ I care about **shipping**, **clarity**, and **business impact**.
 - Event orchestration and state handling
 - Built as a real product, not a demo
 
-**Stack:** TypeScript, React, Supabase, AI APIs
+**Stack:** TypeScript, React, AWS, AI APIs, Google Calendar API
 
 ---
 
