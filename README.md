@@ -1,7 +1,7 @@
 # Hi, I'm Harold Medrano 👋
 
 **Software Developer focused on building real products for startups.**  
-I work mainly as a **Full-Stack Developer with TypeScript**, integrating **AI features into real product flows**, not demos.
+I work mainly as a **Full-Stack Developer with TypeScript**, integrating **AI features into real product flows**.
 
 I care about **shipping**, **clarity**, and **business impact**.
 
