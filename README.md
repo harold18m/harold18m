@@ -16,54 +16,6 @@ I care about **shipping**, **clarity**, and **business impact**.
 
 ---
 
-## 🚀 Featured Projects (Start Here)
-
-### 🥇 Calendable  
-🔗 https://github.com/harold18m/calendable  
-
-**AI-powered calendar assistant** that lets users interact with their schedule using natural language.
-- Conversational UX over calendar data
-- Event orchestration and state handling
-- Built as a real product, not a demo
-
-**Stack:** TypeScript, React, AWS, AI APIs, Google Calendar API
-
----
-
-### 🥈 Ghostwriter AI
-🔗 https://github.com/harold18m/ghostwriter
-
-**AI tool for structured content generation**, focused on quality, control, and reuse.
-- Prompt-driven workflows
-- Content consistency and customization
-- Designed for practical, repeatable use cases
-
-**Stack:** TypeScript, AI APIs
-
----
-
-### 🥉 Menu AI
-🔗 https://github.com/harold18m/menu-ai  
-**Computer-vision + AI pipeline** that transforms a restaurant menu photo into interactive dish previews.
-- Image → structured data → visual output
-- AI-assisted UX for non-technical users
-- Business-oriented automation
-
-**Stack:** TypeScript, AI Vision APIs
-
----
-
-### Gymnasio / FitGym
-🔗 https://github.com/harold18m/administracion_gimnasio  
-**Gym management system** covering members, subscriptions, and operational workflows.
-- Real CRUD and business logic
-- Focused on internal operations, not marketing
-
----
-
-👉 Each repository includes a README explaining the problem, architecture, and decisions.
-
----
 
 ## ⚙️ Tech Stack
 
