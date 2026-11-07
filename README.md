@@ -23,6 +23,9 @@ worth bidding on. scrapes remaju daily, scores every listing.
 $ cat philosophy.txt
 ship the smallest thing that works, then verify it in production.
 merged is not done.
+
+$ cat open-to.txt
+startups building with ai agents · open source · side projects with real users
 ```
 
 ```
