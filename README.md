@@ -49,4 +49,4 @@ selected work/
 
 ---
 
-[h18m.tech](https://h18m.tech) · [linkedin](https://linkedin.com/in/haroldmedrano18) · [haroldmedrano33@gmail.com](mailto:haroldmedrano33@gmail.com)
+[harold18m.dev](https://harold18m.dev) · [linkedin](https://linkedin.com/in/haroldmedrano18) · [haroldmedrano33@gmail.com](mailto:haroldmedrano33@gmail.com)
