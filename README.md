@@ -39,7 +39,7 @@ stack/
 ```
 selected work/
 ├── reallyquickemails   email platform · mcp + ai copilot · private
-├── radar de remates    auction radar · cloudflare workers + d1 · remates.haroldmedrano33.workers.dev
+├── radar de remates    auction radar · cloudflare workers + d1 
 ├── cartero             minimal mta in go · smtp, bounces, adaptive throttling
 ├── top-coders          github developer ranking by country · astro
 ├── ghostwriter         voice notes to social content · bedrock + claude
